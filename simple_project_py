@@ -1,0 +1,57 @@
+'''
+Multiple line quote
+
+'''
+
+a = 3 #Sinwerqkwelrhqkwer;lkqewrgle line comment
+b = 5
+print(a+b)
+hello = "helllo"
+c = hello
+d = "World"
+
+print (c+d)
+
+if (a+b > 60):
+    print("greeater than 6")
+else:
+    print("less than 60")
+
+c = a+b
+if (c >7):
+    print(c+5)
+else :
+    print(c-5)
+
+if (b-a >1):
+    print(c+11)
+
+thermostat = 65
+
+if (thermostat > 70):
+    print("Turn on the AC")
+else:
+    print("Heater")
+
+
+
+if (a+b < 5):
+    print(a)
+elif (a+b >8):
+    print(b)
+elif (a+b >9):
+    print(9)
+else:
+    print(a+b)
+
+#bin/bash
+# to display files and folder from current directory
+for item in *
+do
+	if [d sitmes]
+	then
+		echo sitmes
+
+	fl
+'''
+done
